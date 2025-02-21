@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Twilit's Ps blog!
+title: Twilit's Ps blog! "트윌릿이 ps하는 블로그"
 email: eggx50000@naver.com
 description: solve ps problem and post them
 url: eggx50000.tistory.com
